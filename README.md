@@ -1,9 +1,8 @@
 # Jiyeong's Website!
 
-Access? 
+PersonalWebsite for Jiyeong, Me :) 
+# jiyeonghoneymustard
+
+# Access? 
 https://jiyeonghong.github.io/honeymustardjiyeong/#
 
-PersonalWebsite for Jiyeong, Me :) 
-# honeymustard
-# honeymustardjiyeong
-# jiyeonghoneymustard
