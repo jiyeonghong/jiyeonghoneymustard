@@ -4,5 +4,5 @@ PersonalWebsite for Jiyeong, Me :)
 # jiyeonghoneymustard
 
 # Access? 
-https://jiyeonghong.github.io/honeymustardjiyeong/#
+ https://jiyeonghong.github.io/jiyeonghoneymustard/#
 
